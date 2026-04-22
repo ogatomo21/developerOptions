@@ -17,3 +17,4 @@ app/release/
 app/build/
 *.apk
 *.aab
+.idea/
